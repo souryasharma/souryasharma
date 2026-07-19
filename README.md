@@ -7,11 +7,11 @@
 
 ### 🚀 About Me
 
-- 💻 Learning **Web Development** — HTML, CSS, Tailwind CSS, Bootstrap
+- 💻 Learning **Web Development** — HTML, CSS, Tailwind CSS, Bootstrap,javascript
 - 🗄️ Know **SQL** for database handling
 - 🌱 Also comfortable with **C** and **Java**
 - 📊 Learning **DSA**
-- 🔭 Next up: JavaScript & React.js
+
 
 ### 🛠️ Tech Stack
 
